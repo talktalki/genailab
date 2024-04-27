@@ -1,7 +1,2 @@
 ## Generating Product Image from Customer Reviews
-This project invites you to delve into the intersection of text and image generation. The goal is to
-use a LLM to extract valuable information from the textual content of the product customer reviews,
-followed by leveraging a diffusion model to re-create product images based on the customer reviews.
-This task not only tests the generative capabilities of AI in its understanding and interpretative
-abilities in extracting visual cues from texts, but also its ability in producing relevant visual content
-based on these visual cues.
+Our project aims to generate images from textual descriptions using DALL-E, an advanced text-to-image model. We started by using a Large Language Model (LLM) to generate text descriptions based on product descriptions and reviews. Then, we used DALL-E to convert these textual descriptions into corresponding images. This approach enhances e-commerce platforms' visual content generation capabilities by automating the process of creating images from raw text.
